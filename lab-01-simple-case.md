@@ -58,3 +58,7 @@ This was my first hands-on PortSwigger lab. I learned how to identify an image r
 ## Disclaimer
 
 All testing was performed in an authorized educational environment provided by PortSwigger Web Security Academy.
+
+## Evidence
+
+![Burp Suite Repeater showing successful path traversal](lab-01-repeater-redacted.png)
